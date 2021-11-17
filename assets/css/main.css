@@ -1,0 +1,8 @@
+#nav {
+    background-image: url("../IMG/navbar.jpg");
+    background-position-x: center;
+}
+
+#nav a {
+    color: white;
+}
